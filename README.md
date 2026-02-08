@@ -1,1 +1,3 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=F71111&center=true&vCenter=true&width=435&lines=%E4%B8%80%E5%89%91%E5%BC%80%E5%A4%A9%E9%97%A8;The+Sword+Opens+Heaven's+Gate)
+<p align="center">𝐼 𝓁𝑜𝓋𝑒 𝓎𝑜𝓊,</p>
+<p align="center">𝓌𝒾𝓉𝒽 𝒶𝓁𝓁 𝓂𝓎 𝓁𝒾𝒻𝑒</p>
+<p align="center">𝒶𝓃𝒹 𝒶𝓁𝓁 𝓂𝓎 𝓌𝒾𝓈𝒹𝑜𝓂</p>
